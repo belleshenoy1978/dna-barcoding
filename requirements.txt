@@ -1,0 +1,11 @@
+# Runtime requirements including the web interface.
+biopython>=1.83
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+pyfamsa>=0.5
+piqtree>=0.5
+dendropy>=5.0
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9

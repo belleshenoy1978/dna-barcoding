@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "barcode-pipeline: DNA-barcode identification and phylogeny for fungal and bacterial isolates"
+message: "If you use this software, please cite it and the underlying tools (FAMSA, IQ-TREE 2, ModelFinder, UFBoot, Biopython)."
+type: software
+authors:
+  - family-names: Shenoy
+    given-names: Belle Damodara
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/belleshenoy1978/dna-barcoding"
+url: "https://github.com/belleshenoy1978/dna-barcoding"
+references:
+  - type: article
+    title: "FAMSA: Fast and accurate multiple sequence alignment of huge protein families"
+    authors:
+      - family-names: Deorowicz
+        given-names: Sebastian
+    year: 2016
+  - type: article
+    title: "IQ-TREE 2: New models and efficient methods for phylogenetic inference in the genomic era"
+    authors:
+      - family-names: Minh
+        given-names: Bui Quang
+    year: 2020
+  - type: article
+    title: "ModelFinder: fast model selection for accurate phylogenetic estimates"
+    authors:
+      - family-names: Kalyaanamoorthy
+        given-names: Subha
+    year: 2017
+  - type: article
+    title: "UFBoot2: Improving the ultrafast bootstrap approximation"
+    authors:
+      - family-names: Hoang
+        given-names: Diep Thi
+    year: 2018

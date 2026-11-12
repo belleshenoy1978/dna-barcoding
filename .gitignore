@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# pipeline output and caches
+jobs/
+results/
+demo/
+blast_cache/
+selftest_results*/
+selftest_public_refs/
+*.log
+.pytest_cache/
